@@ -6,7 +6,8 @@ def roll_call_dwarves(dwarfs)
 end
 
 def summon_captain_planet(planeteer_calls)
-  planeteer_calls.collect do |
+  planeteer_calls.collect do |call|
+    
   # Your code here
 end
 
